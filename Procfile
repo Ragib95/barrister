@@ -1,1 +1,1 @@
-web: gunicorn barrister.wsgi --log-file -
+web: gunicorn barrister.wsgi
