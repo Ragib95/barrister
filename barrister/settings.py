@@ -25,7 +25,7 @@ SECRET_KEY = 'h=$*o+j_0hc^3oa)w+u4@g0j5okb!q1ndx0m@u(s9kf=#4&xpb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['barristerunion.herokuapp.com']
 
 
 # Application definition
