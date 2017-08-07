@@ -1,1 +1,1 @@
-web: gunicorn barrister.wsgi
+web: python manage.py runserver
